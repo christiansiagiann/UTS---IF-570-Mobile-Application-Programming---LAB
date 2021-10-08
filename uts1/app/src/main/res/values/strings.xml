@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">uts1_38106</string>
+    <string name="profile">Profile</string>
+    <string name="library">Library</string>
+    <string name="sfx_library_and_previewer">SFX Library and Previewer</string>
+    <string name="login_page">LOGIN PAGE</string>
+    <string name="next">NEXT</string>
+    <string name="masukkan_nama_anda">Masukkan nama anda</string>
+    <string name="judul">Judul</string>
+    <string name="penyanyi">Penyanyi</string>
+    <string name="play_sfx">PLAY SFX</string>
+    <string name="christian_andreas_siagian">Christian Andreas Siagian</string>
+    <string name="_00000038106">00000038106</string>
+    <string name="if_570_al">IF 570 AL</string>
+    <string name="referensi">REFERENSI</string>
+    <string name="koin">koin</string>
+    <string name="gambar5">gambar5</string>
+</resources>
